@@ -1,11 +1,4 @@
- /*
-Author:    Build Rise Shine with Nyros (BRS)
-Created:   11.05.2022
-Library / Component: Styling page for the app
-(c) Copyright by BRS with Nyros.
-*/
-
-:root {
+ :root {
     --primary-color: #1A4B84;
     --chathams_blue: #1A4B84;
     --tamarillo: #991E14;
@@ -216,11 +209,14 @@ body {
 
 body>.container {
     padding: 60px 15px 0;
+    color: blue;
+    font-style: italic;
 }
 
 .footer>.container {
     padding-right: 15px;
     padding-left: 15px;
+    
 }
 
 code {
